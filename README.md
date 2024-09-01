@@ -59,7 +59,7 @@ To run the Currency Converter on your local machine, follow these steps:
 
    -Input the amount you wish to convert in the designated field.
 
-3. **Perform COnversion:**
+3. **Perform Conversion:**
 
    -Click the "Convert" button to perform the conversion.
 
