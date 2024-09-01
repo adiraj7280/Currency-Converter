@@ -37,7 +37,7 @@ To run the Currency Converter on your local machine, follow these steps:
 
 1. **Clone the Repository:**
 
-   git clone https://github.com/yourusername/currency-converter.git
+   git clone https://github.com/adiraj7280/Currency-Converter.git
 
 2. **Navigate to the Project Directory:**
 
