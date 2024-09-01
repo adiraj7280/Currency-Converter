@@ -75,3 +75,28 @@ Here are some screenshots of the Currency Converter in action:
 
 **Main Conversion Screen:**
 
+![Currency Converter Screenshot](Sample.png)
+
+**Conversion Result:**
+
+![After Result Currency Converter Screenshot](Sample1.png)
+
+## Contributing
+
+We welcome contributions to improve the Currency Converter! If you have suggestions or enhancements, please follow these steps:
+
+1.Fork the repository.
+
+2.Create a new branch (`git checkout -b feature/YourFeature`).
+
+3.Make your changes.
+
+4.Commit your changes (`git commit -am 'Add some feature'`).
+
+5.Push to the branch (`git push origin feature/YourFeature`).
+
+6.Create a new Pull Request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](License) file for details.
