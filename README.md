@@ -99,4 +99,4 @@ We welcome contributions to improve the Currency Converter! If you have suggesti
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](License) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
